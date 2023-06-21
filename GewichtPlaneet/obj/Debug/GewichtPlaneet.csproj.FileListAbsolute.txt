@@ -1,0 +1,10 @@
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\bin\Debug\GewichtPlaneet.exe.config
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\bin\Debug\GewichtPlaneet.exe
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\bin\Debug\GewichtPlaneet.pdb
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\obj\Debug\GewichtPlaneet.csproj.AssemblyReference.cache
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\obj\Debug\GewichtPlaneet.frmPlaneet.resources
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\obj\Debug\GewichtPlaneet.Properties.Resources.resources
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\obj\Debug\GewichtPlaneet.csproj.GenerateResource.cache
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\obj\Debug\GewichtPlaneet.csproj.CoreCompileInputs.cache
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\obj\Debug\GewichtPlaneet.exe
+C:\Users\storm\source\repos\GewichtPlaneet\GewichtPlaneet\obj\Debug\GewichtPlaneet.pdb
