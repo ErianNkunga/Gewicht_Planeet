@@ -117,6 +117,7 @@ namespace GewichtPlaneet
             // lblMercurius
             // 
             this.lblMercurius.AutoSize = true;
+            this.lblMercurius.BackColor = System.Drawing.SystemColors.Control;
             this.lblMercurius.Location = new System.Drawing.Point(209, 106);
             this.lblMercurius.Name = "lblMercurius";
             this.lblMercurius.Size = new System.Drawing.Size(53, 13);
