@@ -1,4 +1,4 @@
-# ***Gewicht planeet***
+# ***Gewicht op planeet berekenen***
 
 
 <img src= "image.png"
